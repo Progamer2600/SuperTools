@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="SuperTools:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/SuperTools_jar</output-path>
+    <output-path>$PROJECT_DIR$/../Spigot2/plugins</output-path>
     <root id="archive" name="SuperTools.jar">
       <element id="module-output" name="SuperTools" />
     </root>
